@@ -8,7 +8,12 @@
         "bootmagic": true,
         "extrakey": true,
         "mousekey": true,
-        "nkro": true
+        "nkro": true,
+        "caps_word": true,
+        "combo": true
+    },
+    "caps_word": {
+        "both_shifts_turns_on": true
     },
     "matrix_pins": {
         "cols": ["GP5", "GP4", "GP3", "GP2", "GP1"],
