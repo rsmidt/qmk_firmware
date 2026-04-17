@@ -18,6 +18,7 @@
 /*
  * Urob's Timeless Home Row Mods
  * from: https://www.reddit.com/r/ErgoMechKeyboards/comments/1q1jo3c/urobs_zmk_timeless_home_row_mods_ported_to_native/
+ *
  * Noticeable delay when tapping HRMs: Increase FLOW_TAP_TERM.
  * False negatives (same-hand): Reduce TAPPING_TERM (or disable Chordal Hold)
  * False negatives (cross-hand): Reduce FLOW_TAP_TERM
